@@ -1,6 +1,3 @@
-// pw:vtJ0KlG2c4BLPEbS
-// user:nasa-api
-// mongodb+srv://nasa-api:<password>@nasacluster.au3im.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 const axios = require('axios');
 const launchesDB = require('./launches.mongo');
 const planets = require('./planets.mongo');
